@@ -68,9 +68,8 @@
         class="w-8 hover:-translate-y-2 transition-all duration-300 cursor-pointer"
       />
     </div>
+    <p class="mt-10 text-cstm-neutral-gray">
+      &copy; Copyright Ping. All rights reserved.
+    </p>
   </div>
-  <!-- 
-    Notify Me
-
-  &copy; Copyright Ping. All rights reserved. -->
 </main>
